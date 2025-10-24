@@ -1,0 +1,11 @@
+sort1 uses: BUBBLE SORT
+
+How do you know?: Slow in random list (O(n^2)) but fast in sorted lists (O(n))
+
+sort2 uses: MERGE SORT
+
+How do you know?: Always the fastest, more obvious in large lists which takes similiar time as a shorter one (O(n log n))
+
+sort3 uses: SELECTION SORT
+
+How do you know?: Worst performace as it has to perform always O(n^2), going through the entire list
